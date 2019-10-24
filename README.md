@@ -2,7 +2,7 @@
 
 ## SEP
 
-Here you can find complete code of one package of a network card game implementation. The work was done in the summer of 2015 in as part of my Bachelor study project. The game implemented is "Cosmic Eidex" and allows several players to play on different computers. The implementation uses Client-Server architecture and makes heavy use of concurrency and RPC tools provided by Java. Inside SEP folder you will see 3 directories corresponding to different modules that were supposed to be deployed on client, server or both (common).
+Here you can find complete code of one package of a network card game implementation. The work was done in the summer of 2015 in as part of my Bachelor study project (SEM is for "Softwareentwicklungsprojekt"). The game implemented is "Cosmic Eidex" and allows several players to play on different computers. The implementation uses Client-Server architecture and makes heavy use of concurrency and RPC tools provided by Java. Inside SEP folder you will see 3 directories corresponding to different modules that were supposed to be deployed on client, server or both (common).
 
 The most interesting parts are probably module_common/spiel/Spiel.java, module_server/spiel/Spielpartie.java and especially their corresponding implementations (SpielImpl.java and SpielPartieImpl.java). The test/spiel/KartenComparatorMitFarbeTest.java can also be interesting.
 
