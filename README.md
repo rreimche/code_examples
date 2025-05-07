@@ -34,7 +34,7 @@ Minidote is a very simplified version of Antidote – a planet scale, highly ava
 
 The most interesting file is the minidote_server.erl
 
-## Hunt
+## Hunger
 
 This code represents an iOS client for another project in the area of distributed systems: a mobile multiplayer game, in which players use their mobile phones and act as either zombies trying to eat humans or humans who try to survive longer. The seerver part was implemented on the Google Firebare. The code can be found here: https://github.com/rreimche/hunger
 
