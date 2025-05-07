@@ -23,3 +23,19 @@ You will not find all the files to compile the Lambda Function because of the sa
 Minidote is a very simplified version of Antidote – a planet scale, highly available, transactional database built on Conflict-free Replicated Datatypes (CRDT) technology (https://github.com/AntidoteDB/antidote). It was written using Erlang OTP in a team of 2 as an excercise to get the allowance to take the exam in "Programming Distributed Systems" course during my Masters study. My part was to program the main logic of the system so that a distributed database system consisting of multiple replicas using CRDTs is able to process updates and reads. The communication between the replicas (causal broadcast) as well as the interfacing part and some of the required integrations are absent herer because of the lack of allowance for that from their authors.
 
 The most interesting file is the minidote_server.erl
+
+## kariera-centr.ru
+
+A web app built with ruby on rails -- a custom made CMS for a company to manage their website: https://github.com/rreimche/kariera-centr.ru
+
+## hedgehog
+
+A web app build with django -- a custom made CMS for a yoga teacher to manage their website: https://github.com/rreimche/hedgehog
+
+## Analisys of information diffusion in social networks
+
+Software I wrote for my bachelor thesis: https://github.com/rreimche/infdiffusion
+
+
+
+
