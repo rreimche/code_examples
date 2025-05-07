@@ -1,5 +1,15 @@
 # Some code examples authored by me
 
+## An LLM-Based Multi-Agent System for review of scientific literature.
+
+A system that uses given LLM model (provided by, for instance, Grok or HuggingFace) and arXiv eprint ids to write a literature review. Code: https://github.com/rreimche/genai-exam/tree/main
+
+## A web portal to manage orders
+
+A web app built with symphony 6 to digitalize order management for services in machinery industry related management of a certain family of industrial equipment. It implements an order pipeline: placing a complex order by a client, doing measurements and uploading the results, finishing the order etc.
+
+https://github.com/rreimche/wear-tester/tree/main
+
 ## SEP
 
 Here you can find complete code of one package of a network card game implementation. The work was done in the summer of 2015 in as part of my Bachelor study project (SEM is for "Softwareentwicklungsprojekt"). The game implemented is "Cosmic Eidex" and allows several players to play on different computers. The implementation uses Client-Server architecture and makes heavy use of concurrency and RPC tools provided by Java. Inside SEP folder you will see 3 directories corresponding to different modules that were supposed to be deployed on client, server or both (common).
@@ -24,9 +34,19 @@ Minidote is a very simplified version of Antidote – a planet scale, highly ava
 
 The most interesting file is the minidote_server.erl
 
+## Hunt
+
+This code represents an iOS client for another project in the area of distributed systems: a mobile multiplayer game, in which players use their mobile phones and act as either zombies trying to eat humans or humans who try to survive longer. The seerver part was implemented on the Google Firebare. The code can be found here: https://github.com/rreimche/hunger
+
 ## kariera-centr.ru
 
 A web app built with ruby on rails -- a custom made CMS for a company to manage their website: https://github.com/rreimche/kariera-centr.ru
+
+## Twitter scraper
+
+This twitter scraper was written for my bachelor thesis named "Comparison of the diffusion of real and fake news in social networks". It helps to gather data on real and fake news in this social network for further analysis. It uses MongoDB to store the data.
+
+https://github.com/rreimche/newsscrapper
 
 ## hedgehog
 
@@ -35,6 +55,14 @@ A web app build with django -- a custom made CMS for a yoga teacher to manage th
 ## Analisys of information diffusion in social networks
 
 Software I wrote for my bachelor thesis: https://github.com/rreimche/infdiffusion
+
+## Several Shopware Plugins
+
+https://github.com/rreimche/ItReimcheGoogleReviews/tree/main
+https://github.com/rreimche/ItReimcheHideSoldOutProducts/tree/main
+https://github.com/rreimche/ItReimcheSetGutscheinTaxId/tree/main
+https://github.com/rreimche/RreimcheImportEET
+
 
 
 
