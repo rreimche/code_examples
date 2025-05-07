@@ -38,7 +38,7 @@ The most interesting file is the minidote_server.erl
 
 This code represents an iOS client for another project in the area of distributed systems: a mobile multiplayer game, in which players use their mobile phones and act as either zombies trying to eat humans or humans who try to survive longer. The seerver part was implemented on the Google Firebare. The code can be found here: https://github.com/rreimche/hunger
 
-## kariera-centr.ru
+## Kariera -- a local education company
 
 A web app built with ruby on rails -- a custom made CMS for a company to manage their website: https://github.com/rreimche/kariera-centr.ru
 
@@ -48,7 +48,7 @@ This twitter scraper was written for my bachelor thesis named "Comparison of the
 
 https://github.com/rreimche/newsscrapper
 
-## hedgehog
+## Hedgehog -- a yoga studio
 
 A web app build with django -- a custom made CMS for a yoga teacher to manage their website: https://github.com/rreimche/hedgehog
 
