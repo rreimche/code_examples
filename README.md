@@ -42,19 +42,19 @@ This code represents an iOS client for another project in the area of distribute
 
 A web app built with ruby on rails -- a custom made CMS for a company to manage their website: https://github.com/rreimche/kariera-centr.ru
 
+## Hedgehog -- a yoga studio
+
+A web app build with django -- a custom made CMS for a yoga teacher to manage their website: https://github.com/rreimche/hedgehog
+
 ## Twitter scraper
 
 This twitter scraper was written for my bachelor thesis named "Comparison of the diffusion of real and fake news in social networks". It helps to gather data on real and fake news in this social network for further analysis. It uses MongoDB to store the data.
 
 https://github.com/rreimche/newsscrapper
 
-## Hedgehog -- a yoga studio
-
-A web app build with django -- a custom made CMS for a yoga teacher to manage their website: https://github.com/rreimche/hedgehog
-
 ## Analisys of information diffusion in social networks
 
-Software I wrote for my bachelor thesis: https://github.com/rreimche/infdiffusion
+Software I wrote to analyse data for my bachelor thesis: https://github.com/rreimche/infdiffusion
 
 ## Several Shopware Plugins
 
